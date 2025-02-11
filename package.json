@@ -4,10 +4,7 @@
   "description": "WPI CS4241-C25 Assignment A2",
   "author": "",
   "scripts": {
-    "dev": "node server.js",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.21.2",
